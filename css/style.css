@@ -1,0 +1,21 @@
+table{
+	border: 1px solid black;
+
+}
+td{
+    border: 1px solid black;
+}
+th{
+	border: 1px solid black;
+}
+h2{
+	color:red;	
+}
+p{
+	color: blue;
+}
+span{
+	color: darkolivegreen;
+	font-weight: bold;
+
+}
